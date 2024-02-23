@@ -12,14 +12,14 @@ const config = {
   title: "Learn how to interact with OpenAI models",
   tagline: "A 75-minute workshop on OpenAI GPT Models for Microsoft AI Tour",
   url: "https://microsoft.github.io/",
-  baseUrl: "/Workshop-Interact-with-OpenAI-models/",
+  baseUrl: "/PE4GenAI/",
 
   onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "ignore",
   trailingSlash: true,
 
   organizationName: "microsoft", 
-  projectName: "Workshop-Interact-with-OpenAI-models", 
+  projectName: "PE4GenAI", 
   deploymentBranch: "gh-pages", 
   favicon: "img/favicon.ico",
 
