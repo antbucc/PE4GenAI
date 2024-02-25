@@ -10,7 +10,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config = {
 
   title: "Learn how to interact with OpenAI models",
-  tagline: "A 75-minute workshop on OpenAI GPT Models for Microsoft AI Tour",
+  tagline: "A 7500-minute workshop on OpenAI GPT Models for Microsoft AI Tour",
   url: "https://microsoft.github.io/",
   baseUrl: "/PE4GenAI/",
 
@@ -18,7 +18,7 @@ const config = {
   onBrokenMarkdownLinks: "ignore",
   trailingSlash: true,
 
-  organizationName: "microsoft", 
+  organizationName: "Fondazione Bruno Kessler", 
   projectName: "PE4GenAI", 
   deploymentBranch: "gh-pages", 
   favicon: "img/favicon.ico",
