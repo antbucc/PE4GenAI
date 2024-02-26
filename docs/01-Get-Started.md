@@ -5,7 +5,7 @@ slug: /setup
 
 :::info COURSE PRE-REQUISITES
  - **Use your own laptop**. 
- - **[Have a GitHub accoun](https://github.com/)**
+ - **[Have a GitHub account](https://github.com/)**
  - **Launch a modern browser**. (Use edge or chrome for the best experience)
 :::
 
