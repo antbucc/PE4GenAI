@@ -9,9 +9,9 @@ import { themes as prismThemes } from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
 
-  title: "Learn how to interact with OpenAI models",
-  tagline: "A 7500-minute workshop on OpenAI GPT Models for Microsoft AI Tour",
-  url: "https://microsoft.github.io/",
+  title: "Prompt Engineering for generative AI (PE4GenAI)",
+  tagline: "A course on prompt engineering",
+  url: "https://antbucc.github.io/",
   baseUrl: "/PE4GenAI/",
 
   onBrokenLinks: "ignore",
@@ -60,9 +60,9 @@ const config = {
       },
 
       navbar: {
-        title: "Learn how to interact with OpenAI models",
+        title: "Prompt Engineering for generative AI",
         logo: {
-          alt: "Workshop: Learn how to interact with OpenAI models",
+          alt: "Prompt Engineering for generative AI",
           src: "img/logo-ws3.png",
         }
       },
@@ -70,7 +70,7 @@ const config = {
       footer: {
         style: "dark",
         links: [],
-        copyright: `Copyright © ${new Date().getFullYear()} Learn how to interact with OpenAI models. Microsoft AI Tour.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Prompt Engineering for Generative AI (PE4GenAI).`,
       },
 
       prism: {
