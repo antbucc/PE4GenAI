@@ -3,18 +3,18 @@ title: Get started
 slug: /setup
 ---
 
-:::info WORKSHOP PRE-REQUISITES
+:::info COURSE PRE-REQUISITES
  - **Use your own laptop**. 
  - **Launch a modern browser**. (Use edge or chrome for the best experience)
 :::
 
-For this workshop you are using a custom playground build on-top of the Azure OpenAI Service. In this playground you will have the opportunity to play with the prompts and learn how to interact with OpenAI Models.
+For this course you are using a custom playground build on-top of the Azure OpenAI Service. In this playground you will have the opportunity to play with the prompts and learn how to interact with OpenAI Models.
 
 
 ## Authenticate
 
-Your workshop instructor will provide you with an **access key** that will be valid during the workshop session. Setup is now a quick 2-step process. 
- 1. Navigate to the [Microsoft AI Tour Playground](https://aka.ms/aitour/playground) in browser, as shown below. 
+Your course instructor will provide you with an **access key** that will be valid during the course session. Setup is now a quick 2-step process. 
+ 1. Navigate to the [PE4GenAI Playground](https://polite-ground-030dc3103.4.azurestaticapps.net/event/631a-5f5a) in browser, as shown below. 
  2. Enter the **access-key** at top-right and click `Authorize` to login.
     ![AI Tour Playground](./images/aitour-playground-chat.png) 
 
