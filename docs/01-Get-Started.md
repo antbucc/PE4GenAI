@@ -35,7 +35,6 @@ Let's take a minute to familiarize ourselves with the different regions of this 
 - Region 4️⃣ | Configuration - tunable parameters, execution stats
 - Region 5️⃣ | System message - sets assistant persona, base context
 - Region 6️⃣ | Function calling - save custom functions to set context
-- Region 7️⃣ | Image generation - access the DALL-E model playground 
 
 
 ## Tips
