@@ -4,11 +4,11 @@ In the context of this course, a **card** refers to a structured format or **tem
 
 # Card Model
 
-- A **meta-model** of a generative AI task is a conceptual framework that describes the ***structure***, ***components***, and ***relationships*** involved in generating content or output using generative AI techniques. 
+- A **model** of a generative AI task is a conceptual framework that describes the ***structure***, ***components***, and ***relationships*** involved in generating content or output using generative AI techniques. 
 
 - It provides a ***high-level*** abstraction of the task, capturing essential elements and defining their interactions.
 
-Here's a simplified **meta-model** of a generative AI task:
+Here's a simplified **model** of a generative AI task:
 
 1. **Objective:** The overarching goal or purpose of the generative AI task. This defines what needs to be achieved through the content generation process.
 
@@ -28,7 +28,7 @@ Here's a simplified **meta-model** of a generative AI task:
 
 5. **Feedback Loop:** A mechanism for iteratively improving the generative AI model based on feedback from users or evaluators. This may involve refining the input prompts, adjusting model parameters, or incorporating additional training data to enhance performance.
 
-Overall, the meta-model of a generative AI task  helps define the key components involved in the task and their relationships, facilitating the design, execution, and evaluation of generative AI tasks in various applications.
+Overall, the model of a generative AI task  helps define the key components involved in the task and their relationships, facilitating the design, execution, and evaluation of generative AI tasks in various applications.
 
 
 # Card Instance
