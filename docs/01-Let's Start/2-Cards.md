@@ -2,7 +2,7 @@
 
 In the context of this course, a **card** refers to a structured format or **template** used to define a specific ***task*** or ***objective*** for generating content or output using generative AI techniques.
 
-# Card Meta-Model
+# Card Model
 
 - A **meta-model** of a generative AI task is a conceptual framework that describes the ***structure***, ***components***, and ***relationships*** involved in generating content or output using generative AI techniques. 
 
@@ -31,7 +31,7 @@ Here's a simplified **meta-model** of a generative AI task:
 Overall, the meta-model of a generative AI task  helps define the key components involved in the task and their relationships, facilitating the design, execution, and evaluation of generative AI tasks in various applications.
 
 
-# Card Model
+# Card Instance
 
 From the described meta-model of a generative AI task, we can extract the following model:
 
