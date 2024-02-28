@@ -33,7 +33,7 @@ Overall, the model of a generative AI task  helps define the key components invo
 
 # Card Instance
 
-From the described meta-model of a generative AI task, we can extract the following model:
+From the described model of a generative AI task (CARD), we can derive the following example (instance):
 
 
 
@@ -61,6 +61,6 @@ From the described meta-model of a generative AI task, we can extract the follow
 
 5. **Feedback Loop:**
    - Description: A mechanism for iteratively improving the generative AI model based on feedback.
-   - ***Example***: Incorporating user feedback to refine the input prompts or fine-tune model parameters for better performance.
+   - ***Example***: Incorporating user feedback to refine the input prompts.
 
 
