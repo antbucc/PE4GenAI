@@ -1,3 +1,8 @@
+Generative AI has a wide range of applications in various tasks and activities. 
+
+
+
+
 1. **Generation**: Generative AI can create content, such as writing blog posts, composing emails, or generating images. It can intuitively produce text or visual content based on a given input.
 2. **Extraction**: This involves extracting specific data from a larger dataset. For example, a generative AI system can extract tables from a PDF and convert them into a format compatible with applications like Microsoft Excel.
 3. **Summarization**: Generative AI can take large volumes of text and condense it into shorter, summarized versions. This is useful for creating meeting notes from conference call transcripts or summarizing lengthy articles.
