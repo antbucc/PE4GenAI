@@ -1,3 +1,8 @@
+---
+title: GenerativeAI
+slug: /intro
+---
+
 # Generative AI
 GenAI is like a **modern genie**, impressing humans with its rapid and precise generation of **text**, **audio**, **images**, and **videos**.
 
