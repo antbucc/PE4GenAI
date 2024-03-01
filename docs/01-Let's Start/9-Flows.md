@@ -22,21 +22,8 @@ Nodes (Cards):
 9. Implement Feedback (Node 9)
 10. Iterate (Node 10)
 
-```mermaid
-graph TD;
-    v1[Generate Content] --> v2[Revise Content];
-    v2 -->|choice| v3[Translate Content];
-    v2 -->|choice| v4[Correct Grammatical Errors];
-    v2 -->|choice| v5[Enhance Coherence];
-    v3 --> v8[Gather Feedback];
-    v4 --> v8;
-    v5 --> v8;
-    v8 --> v9[Implement Feedback];
-    v9 --> v10[Iterate];
-    v10 -->|choice| v1;
-    v10 -->|choice| v8;
-```
 
+![Alt text](flow.png)
 
 
 The transitions between cards guide the flow of the generative content creation process, allowing for iterative refinement based on feedback and the completion of various tasks.
