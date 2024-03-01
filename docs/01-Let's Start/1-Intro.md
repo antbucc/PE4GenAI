@@ -40,3 +40,16 @@ GenAI finds applications across various domain, such as:
 **Robotics and Automation**: GenAI is used in robotics and automation to generate robot behaviors, optimize robot movements, and improve human-robot interaction. It can also generate designs for robotic components and systems.
 
 
+![Alt text](genAIFlow.avif)(image from https://dev.to/azure/prompt-engineering-fundamentals-generative-ai-for-beginners-v1-1kii)
+
+
+# Popular GenAI tools:
+
+**GPT-3:** This is a large language model developed by **OpenAI**. It is one of the most powerful language models available, and it can be used for a variety of tasks, including generating text, translating languages, and writing different kinds of creative content.
+
+**DALL-E:** This is a generative AI model developed by **OpenAI**. It can be used to create realistic images from text descriptions. For example, you can give DALL-E a text description like “a cat riding a bike” and it will generate an image of a cat riding a bike.
+
+
+**Caffe2:** This is a deep learning framework developed by Facebook. It is a popular choice for developing generative AI models because it is easy to use and it is well-supported.
+
+**PyTorch:** This is another deep learning framework that is popular for developing generative AI models. It is similar to Caffe2 in terms of its ease of use and support.
