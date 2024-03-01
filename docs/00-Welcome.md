@@ -18,7 +18,7 @@ By the end of this course, you should be able to:
 
 ## Course Outline
 
-The course is organized into sections, taking you from "understanding" (core concepts) to "doing" (hands-on exercises). Prioritize completing the exercises within the allotted time. You can then any remaining session time for open-ended exploration to build your own intuition for prompt engineering.
+The course is organized into sections, taking you from "understanding" (core concepts) to "doing" (hands-on exercises). You can then any remaining session time for open-ended exploration to build your own intuition for prompt engineering.
 
 1. [Introduction](/survey). Fill the survey.
 2. [Generative AI Intro and Cards](/intro). Understand and Create your genAI cards.
