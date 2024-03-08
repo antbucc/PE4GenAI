@@ -74,7 +74,7 @@ The input of a large language model is known as prompt, while the output is know
 
 ![Coding example](../images/coding-example.png)
 
-<br>
+
 
 The examples above are quite simple and don’t want to be an exhaustive demonstration of Large Language Models capabilities. They just want to show the potential of using generative AI, in particular but not limited to educational context.
 
