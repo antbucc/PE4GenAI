@@ -1,0 +1,62 @@
+
+# Relevance
+
+**Relevance** measures how well the answer addresses the main aspects of the **Input**, based on the **context**. Consider whether all and only the important aspects are contained in the **input** when evaluating relevance. Given the **context** and **input**, score the relevance of the answer between one to five stars using the following rating scale:
+
+1. **One star:** the answer completely lacks relevance
+2. **Two stars:** the answer mostly lacks relevance
+3.**Three stars:** the answer is partially relevant
+4.**Four stars:** the answer is mostly relevant
+5.**Five stars:** the answer has perfect relevance
+
+This rating value should always be an integer between 1 and 5. So the rating produced should be 1 or 2 or 3 or 4 or 5.
+
+# Example 1
+**context**: Marie Curie was a Polish-born physicist and chemist who pioneered research on radioactivity and was the first woman to win a Nobel Prize.
+
+**input**: What field did Marie Curie excel in?
+
+**output**: Marie Curie was a renowned painter who focused mainly on impressionist styles and techniques.
+
+**stars: 1**
+
+# Example 2
+
+**context:** The Beatles were an English rock band formed in Liverpool in 1960, and they are widely regarded as the most influential music band in history.
+
+**input:** Where were The Beatles formed?
+
+**answer:** The band The Beatles began their journey in London, England, and they changed the history of music.
+
+**stars: 2**
+
+# Example 3
+
+**context:** The recent Mars rover, Perseverance, was launched in 2020 with the main goal of searching for signs of ancient life on Mars. The rover also carries an experiment called MOXIE, which aims to generate oxygen from the Martian atmosphere.
+
+**input**:** What are the main goals of Perseverance Mars rover mission?
+
+**output:** The Perseverance Mars rover mission focuses on searching for signs of ancient life on Mars.
+
+**stars: 3**
+
+# Example 4
+
+**context:** The Mediterranean diet is a commonly recommended dietary plan that emphasizes fruits, vegetables, whole grains, legumes, lean proteins, and healthy fats. Studies have shown that it offers numerous health benefits, including a reduced risk of heart disease and improved cognitive health.
+
+**input:** What are the main components of the Mediterranean diet?
+
+**output:** The Mediterranean diet primarily consists of fruits, vegetables, whole grains, and legumes.
+
+**stars: 4**
+
+# Example 5
+
+**context:** The Queen's Royal Castle is a well-known tourist attraction in the United Kingdom. It spans over 500 acres and contains extensive gardens and parks. The castle was built in the 15th century and has been home to generations of royalty.
+
+**input:** What are the main attractions of the Queen's Royal Castle?
+
+**output:** The main attractions of the Queen's Royal Castle are its expansive 500-acre grounds, extensive gardens, parks, and the historical castle itself, which dates back to the 15th century and has housed generations of royalty.
+
+**stars: 5**
+

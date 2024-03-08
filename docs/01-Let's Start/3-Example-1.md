@@ -5,9 +5,6 @@ Complete the given text with coherent and relevant information.
 - Prompt: "Complete the following text:"
 - Context: "The text discusses the benefits of regular exercise and its impact on overall health and well-being."
 
-**Generative Model:** 
-GPT-3 (Generative Pre-trained Transformer 3)
-
 **Output:** 
 - Generated Text: "Regular exercise is crucial for maintaining good health and well-being. It helps improve cardiovascular health, strengthen muscles, and boost immune function. Additionally, exercise has been shown to reduce the risk of chronic diseases such as heart disease, diabetes, and obesity. Furthermore, physical activity releases endorphins, which can enhance mood and reduce stress levels. Overall, incorporating regular exercise into your routine is essential for leading a healthy and fulfilling life."
 

@@ -5,8 +5,6 @@ Assist in summarizing a lengthy scientific article about climate change.
 - Prompt: "Generate a concise summary of the following scientific article on climate change."
 - Context: Provide the full text of the scientific article, highlighting key points, significant findings, and main arguments.
 
-**Generative Model:** 
-GPT-3 (Generative Pre-trained Transformer 3)
 
 **Output:** 
 - Generated Text: "Summary:

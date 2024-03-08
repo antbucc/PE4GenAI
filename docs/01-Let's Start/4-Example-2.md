@@ -5,15 +5,12 @@ Generate mathematical exercises for elementary school students to practice multi
 - Prompt: "Create multiplication exercises for elementary school students."
 - Context: Specify the range of numbers involved in the multiplication (e.g., numbers between 1 and 10), indicate the number of exercises required, and specify whether any special multiplication concepts (e.g., times tables, repeated addition) need to be included.
 
-**Generative Model:** 
-GPT-3 (Generative Pre-trained Transformer 3)
-
 **Output:** 
 - Generated Text: "1. 2 x 3 =  
-                      2. 5 x 4 =  
-                      3. 7 x 2 =  
-                      4. 9 x 1 =  
-                      5. 3 x 8 =  
+                      1. 5 x 4 =  
+                      2. 7 x 2 =  
+                      3. 9 x 1 =  
+                      4. 3 x 8 =  
                       ..."
 
 **Evaluation Metrics:** 

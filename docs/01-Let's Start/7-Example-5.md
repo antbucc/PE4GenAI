@@ -5,8 +5,6 @@ Generate a short story suitable for children aged 8-10.
 - Prompt: "Create an engaging short story for children aged 8-10."
 - Context: Specify any themes or elements to include (e.g., adventure, friendship, fantasy) and provide guidelines for the tone and language level appropriate for the target age group.
 
-**Generative Model:** 
-GPT-3 (Generative Pre-trained Transformer 3)
 
 **Output:** 
 - Generated Text: 
