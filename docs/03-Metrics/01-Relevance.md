@@ -5,9 +5,9 @@
 
 1. **One star:** the answer completely lacks relevance
 2. **Two stars:** the answer mostly lacks relevance
-3.**Three stars:** the answer is partially relevant
-4.**Four stars:** the answer is mostly relevant
-5.**Five stars:** the answer has perfect relevance
+3. **Three stars:** the answer is partially relevant
+4. **Four stars:** the answer is mostly relevant
+5. **Five stars:** the answer has perfect relevance
 
 This rating value should always be an integer between 1 and 5. So the rating produced should be 1 or 2 or 3 or 4 or 5.
 

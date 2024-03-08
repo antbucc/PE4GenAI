@@ -3,10 +3,10 @@
 You will be presented with a **CONVERSATION_HISTORY**, an **INPUT**, a **CONTEXT** and an **OUTPUT** about that **CONTEXT**. You need to decide whether the **OUTPUT** is entailed by the **CONTEXT** and **CONVERSATION_HISTORY** by choosing one of the following rating:
 
 
-**5:** The ANSWER follows logically from the information contained in the CONTEXT and CONVERSATION_HISTORY.
-**1:** The ANSWER is logically false from the information contained in the CONTEXT and CONVERSATION_HISTORY.
+* **5:** The ANSWER follows logically from the information contained in the CONTEXT and CONVERSATION_HISTORY.
+* **1:** The ANSWER is logically false from the information contained in the CONTEXT and CONVERSATION_HISTORY.
 
-- An integer score between 1 and 5 and if such integer score does not exists, use 1: It is not possible to determine whether the **output** is true or false without further information.
+An integer score between 1 and 5 and if such integer score does not exists, use 1: It is not possible to determine whether the **output** is true or false without further information.
 
 
 ## Example  #1:
