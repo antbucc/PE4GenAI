@@ -1,6 +1,6 @@
 ---
-title: PlayGround 
-slug: /playground
+title: Installation
+slug: /installation
 ---
 
 :::info COURSE PRE-REQUISITES

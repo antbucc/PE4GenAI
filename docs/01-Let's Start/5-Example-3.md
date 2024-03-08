@@ -5,9 +5,6 @@ Create a news article for a sports section of a newspaper covering a recent socc
 - Prompt: "Write a news article about the latest soccer match."
 - Context: Provide details about the teams involved, the venue of the match, the scoreline, any notable incidents or performances during the game, and any relevant background information about the teams or players.
 
-**Generative Model:** 
-GPT-3 (Generative Pre-trained Transformer 3)
-
 **Output:** 
 - Generated Text: "In a thrilling showdown at [Venue Name], [Home Team] clashed with [Away Team] in a highly anticipated soccer match. The atmosphere was electric as fans filled the stadium, eager to witness the action unfold on the pitch.
 
