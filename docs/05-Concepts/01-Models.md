@@ -54,22 +54,4 @@ OpenAI has a [diverse set of language models](https://platform.openai.com/docs/m
 
 [🔖 | Learn more](https://learn.microsoft.com/azure/ai-services/openai/overview).
 
-## Workshop Model Deployments
-
-:::info OUR AZURE PLAYGROUND
-In this workshop we will:
- - **use** the `gpt-35-turbo` model - for chat completions
- - **discuss** the `gpt-4` model - for comparison
-:::
-
-The two main considerations to keep in mind are: 
-- [Model Versions](https://learn.microsoft.com/azure/ai-services/openai/concepts/models) - what do models provide? what are the training cutoff & retirement dates?
-- [Quotas and Limits](https://learn.microsoft.com/azure/ai-services/openai/quotas-limits) - which regions are models available in? what are the model usage limits?
-
-Here's an example of what that data looks like for the 2 models we will focus on. Refer to the links above for more details on other models.
-
-| Model (version) | Availability | Request Limit | Training Data (up to) |
-|:---|:---|:---|:---|
-| [gpt-3.5-turbo (0613)](https://learn.microsoft.com/azure/ai-services/openai/concepts/models#gpt-35-models)| 10 regions | 4096 tokens | Sep 2021 |
-| [gpt-4 (0613)](https://learn.microsoft.com/azure/ai-services/openai/concepts/models#gpt-4-and-gpt-4-turbo-preview-models)| 9 regions | 8192 tokens | Sep 2021 |
 
