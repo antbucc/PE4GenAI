@@ -50,25 +50,25 @@ The input of a large language model is known as prompt, while the output is know
     
     ![Example of summarization](../images/summarization-example.png)
 
-    <br>
+
     
     2. Creative ideation and design of an article, an essay, an assignment or more.
     
     ![Example of creative writing](../images/creative-writing-example.png)
 
-    <br>
+ 
     
 * A **question**, asked in the form of a conversation with an agent.
   
 ![Example of conversation](../images/conversation-example.png)
 
-<br>
+
 
 * A chunk of **text to complete**, which implicitly is an ask for writing assistance.
    
 ![Example of text completion](../images/text-completion-example.png)
 
-<br>
+
 
 * A chunk of **code** together with the ask of explaining and documenting it, or a comment asking to generate a piece of code performing a specific task.
 
