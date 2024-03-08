@@ -1,4 +1,4 @@
-# Basic Prompting
+# Basic CARDs
 
 :::tip What is prompt engineering?
 Prompt engineering is a concept in Natural Language Processing (NLP) that involves **embedding descriptions of tasks** in input to **prompt the model** to output the **desired results**.
@@ -31,19 +31,12 @@ Write a Python function to calculate the nth prime number.
 
 Even though the outputs are generated based on frequencies of similar content in the training data, generative AI models are still capable of generating novel content that has never existed before.
 
-Try a prompt like this:
-
-```text title="Enter in the user prompt:"
-Write a limerick about the Python programming language
-```
-
-How was the limerick? If you didn't like it, you can always ask the chat session to generate a new one.
 
 Next lets check out the parameters we have available: Use the Temperature field on the right column of the chat interface, and set Temperature to zero. What do you observe when you retry the prompt?
 
 The Temperature parameter controls how "creative" the model is allowed to be. At low values of "Temperature", the model is very likely to respond with the completion with the highest weight, limiting the variability in the responses. At higher values of Temperature, low-weighted completions become more likely to be generated, allowing for more creative (but less precise) responses.
 
-Here is another prompt to try with different Temperature values:
+Here is a prompt to try with different Temperature values:
 
 ```text title="Enter in the user prompt:"
 What is a unique and long name for a cat?
@@ -197,12 +190,3 @@ We believe XYZ-code will enable us to fulfill our long-term vision: cross-domain
 
 Prompt Engineering is a complex and rapidly-evolving practice. [This article](https://learn.microsoft.com/azure/cognitive-services/openai/concepts/advanced-prompt-engineering) on Microsoft Learn provides the latest guidance.
 
-
-
-
-
-In the next labs we are going to learn how to steer the models to create the response we want.
-
-:::info[Assignment]
-Create a prompt that generates a rhyme about a lost kangaroo in the middle of the city.
-:::
