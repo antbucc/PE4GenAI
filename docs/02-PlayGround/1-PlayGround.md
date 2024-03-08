@@ -19,7 +19,7 @@ Your course instructor will provide you with an **access key** that will be vali
  2. Login with GitHub at top-right.
  3. Copy the API Key, then navigate to the [Playground](https://polite-ground-030dc3103.4.azurestaticapps.net/).
  4. Enter the **access-key** at top-right and click `Authorize` to login.
-    ![PE4GenAI Playground](./images/aitour-playground-chat.png) 
+    ![PE4GenAI Playground](../images/aitour-playground-chat.png) 
 
 
 ## Explore
