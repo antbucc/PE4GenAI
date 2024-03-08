@@ -14,7 +14,7 @@ For this course you are using a custom playground build on-top of the Azure Open
 
 ## Authenticate
 
-Your course instructor will provide you with an **access key** that will be valid during the course session. Setup is now a quick 2-step process. 
+Your course instructor will provide you with an **access key** that will be valid during the course session. Setup is now a quick 4-step process. 
 
 1. Open the following [link](https://polite-ground-030dc3103.4.azurestaticapps.net/event/631a-5f5a)
  2. Login with GitHub at top-right.
@@ -31,18 +31,18 @@ Let's take a minute to familiarize ourselves with the different regions of this 
 ![](../images/aitour-playground-regions.png)
 
 - Region 1️⃣ | Once authorized, shows the event profile.
-- Region 2️⃣ | User prompt - used to enter text questions for AI
-- Region 3️⃣ | Conversation - interleaved user questions & assistant responses
+- Region 2️⃣ | User prompt - used to enter the **INPUT** part of your **CARD**.
+- Region 3️⃣ | Conversation - interleaved **INPUT** & **OUTPUT**
 - Region 4️⃣ | Configuration - tunable parameters, execution stats
-- Region 5️⃣ | System message - sets assistant persona, base context
-- Region 6️⃣ | Function calling - save custom functions to set context
+- Region 5️⃣ | System message - sets the **CONTEXT** of your **CARD**
+- Region 6️⃣ | Function calling - save custom functions to set context - **we do not use in this course.**
 
 
 ## Tips
 
 ### 1. Clear Chat Sessions
 
-The output of the model is influenced by the contents of the chat session. To ensure that the output of the model is not influenced by previous prompts, click the "Clear Chat" button **before entering each new prompt**.
+The output of the **CARD** is influenced by the contents of the chat session. To ensure that the output of the model is not influenced by previous **OUTPUTS**, click the "Clear Chat" button **before entering each new INPUT**.
 
 ### 2. Copy-Paste Snippets
 
