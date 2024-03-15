@@ -36,6 +36,14 @@ Let’s have a look at how large language models work, with a focus on OpenAI GP
 
 * **Selection process, probability distribution**: The output token is chosen by the model according to its probability of occurring after the current text sequence. This is because the model predicts a probability distribution over all possible ‘next tokens’, calculated based on its training. However, not always the token with the highest probability is chosen from the resulting distribution. A **degree of randomness** is added to this choice, in a way that the model acts in a non-deterministic fashion - we do not get the exact same output for the same input. This degree of randomness is added to simulate the process of creative thinking and it can be tuned using a model parameter called temperature.
 
+In prompt engineering, "temperature" and "top P" are terminologies that are commonly associated with fine-tuning language models like GPT (Generative Pre-trained Transformer). 
+
+1. **Temperature:** Temperature is a hyperparameter used during the sampling process in language generation. In the context of language models, temperature controls the randomness of the generated text. A higher temperature leads to more randomness and diversity in the generated responses, while a lower temperature produces more conservative and predictable outputs.
+
+2. **Top P (Nucleus Sampling):** Top P, also known as nucleus sampling or probabilistic sampling, is another technique used in text generation. Instead of considering all possible tokens at each step, top P sampling involves considering only the most probable tokens whose cumulative probability exceeds a certain threshold (typically referred to as P). This approach ensures diversity while still maintaining some level of control over the generated text.
+
+In the context of prompt engineering, these concepts would be relevant when fine-tuning a language model for specific tasks or applications. Adjusting temperature and top P values can help in controlling the diversity and coherence of the generated responses according to the requirements of the task at hand.
+
 ## Practical Examples
 
 Now that we have a better understanding of the inner working of a large language model, let’s see some practical examples of the most **common tasks** they can perform pretty well, with an eye to our business scenario.
