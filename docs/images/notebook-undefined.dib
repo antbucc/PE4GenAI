@@ -1,0 +1,7 @@
+#!csharp
+
+#r "nuget: Polyglot.Interactive, 0.0.3-*"
+
+#!csharp
+
+#!polyglot-setup --serverurl https://polyglot-api-staging.polyglot-edu.com --contextid e36f8216-5be9-4336-9b5a-c1def7125615
